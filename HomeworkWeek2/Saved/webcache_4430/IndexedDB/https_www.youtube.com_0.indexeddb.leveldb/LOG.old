@@ -1,0 +1,15 @@
+2023/02/08-10:28:08.029 1b40 Reusing MANIFEST D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/08-10:28:08.064 1b40 Recovering log #4
+2023/02/08-10:28:08.064 1b40 Reusing old log D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2023/02/08-10:31:32.279 2ffc Level-0 table #8: started
+2023/02/08-10:31:32.337 2ffc Level-0 table #8: 10843 bytes OK
+2023/02/08-10:31:32.389 2ffc Delete type=0 #4
+2023/02/08-10:31:32.425 2ffc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/02/08-10:31:32.432 2ffc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xf0\x81\x97\xbd_xB\x00\x03\x00\x00\x00\x00\x00\x00\x10@' @ 287 : 1
+2023/02/08-10:31:32.432 2ffc Compacting 1@1 + 1@2 files
+2023/02/08-10:31:32.473 2ffc Generated table #9@1: 61 keys, 2727 bytes
+2023/02/08-10:31:32.473 2ffc Compacted 1@1 + 1@2 files => 2727 bytes
+2023/02/08-10:31:32.581 2ffc compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/02/08-10:31:32.581 2ffc Delete type=2 #5
+2023/02/08-10:31:32.581 2ffc Delete type=2 #8
+2023/02/08-10:31:32.581 2ffc Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xf0\x81\x97\xbd_xB\x00\x03\x00\x00\x00\x00\x00\x00\x10@' @ 287 : 1 .. (end); will stop at (end)

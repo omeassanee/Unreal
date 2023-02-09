@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/MapGreece.umap",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Landscape_1.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/M_Landscape_1.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/MapGreece_sharedassets/Dirt_LayerInfo.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/MapGreece_sharedassets/Grass_LayerInfo.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/MapGreece_sharedassets/Mud_LayerInfo.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Island.umap",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/M_Landscape_1_Inst1.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/MSPresets/M_MS_Default_Material/M_MS_Default_Material.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Island_sharedassets/Rocky_LayerInfo.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Megascans/3D_Assets/Beach_Cliff_wdelca0/S_Beach_Cliff_wdelca0_lod0_Var1.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/MSPresets/M_MS_Default_Fuzz_Material/M_MS_Default_Fuzz_Material.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Megascans/3D_Assets/Gigantic_Sandstone_Terrain_wldhdhxva/S_Gigantic_Sandstone_Terrain_wldhdhxva_lod0_Var1.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Megascans/3D_Plants/Seaweed_sdokF/MI_Seaweed_sdokF_2K.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Megascans/3D_Assets/Mossy_Birch_Log_tjsicjffa/S_Mossy_Birch_Log_tjsicjffa_lod3.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Megascans/3D_Assets/Mossy_Embankment_tkkodbhfa/S_Mossy_Embankment_tkkodbhfa_lod3.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Megascans/3D_Assets/Mossy_Forest_Ground_wgxlbc3aw/S_Mossy_Forest_Ground_wgxlbc3aw_lod3.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Megascans/3D_Assets/Roman_Column_tkxkaeqfa/S_Roman_Column_tkxkaeqfa_lod3.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Megascans/3D_Assets/Roman_Column_wj3kdjtqx/S_Roman_Column_wj3kdjtqx_lod3_Var1.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Megascans/3D_Assets/Roman_Stone_Coffin_wj3keafqx/S_Roman_Stone_Coffin_wj3keafqx_lod3_Var1.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Megascans/3D_Assets/Roman_Stone_Floor_tkkrcayfa/S_Roman_Stone_Floor_tkkrcayfa_lod3.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Megascans/3D_Assets/Tundra_Mossy_Boulder_vivvecldw/S_Tundra_Mossy_Boulder_vivvecldw_lod3_Var1.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Islandboy.umap",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/3.umap",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/4.umap",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Megascans/3D_Assets/Beech_Tree_Trunk_whjtba1aw/S_Beech_Tree_Trunk_whjtba1aw_lod3_Var1.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Megascans/3D_Assets/Campfire_uenpfeifa/S_Campfire_uenpfeifa_lod3_Var1.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Megascans/3D_Assets/Large_Rock_Shelf_wjsrbgis/S_Large_Rock_Shelf_wjsrbgis_lod3_Var1.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Megascans/3D_Assets/Military_Wooden_Box_ud4nfhofa/S_Military_Wooden_Box_ud4nfhofa_lod3_Var1.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Megascans/3D_Assets/Roman_Marble_Ornate_Plinth_ucsqeiofa/S_Roman_Marble_Ornate_Plinth_ucsqeiofa_lod3.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Megascans/3D_Assets/Roman_Statue_tfprbilda/S_Roman_Statue_tfprbilda_lod3.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Megascans/3D_Assets/Roman_Statue_tgziabifa/S_Roman_Statue_tgziabifa_lod3.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Megascans/3D_Assets/Roman_Trim_thjkacofa/S_Roman_Trim_thjkacofa_lod3.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Megascans/3D_Assets/Sandbag_Barrier_udmhefrqx/S_Sandbag_Barrier_udmhefrqx_lod3.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Map/Untitled.umap",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/M_Landscape_1_Inst.uasset",
+				"D:/UNREAL ENGINE/PROJECT/HomeworkWeek2/Content/Landscape_1_Inst.uasset"
+			]
+		}
+	]
+}
